@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "tda-analyzer": {
+      "command": "/Users/Shared/code/JDR/jdr-terre-d-arran/tda-mcp-analyzer/venv/bin/python",
+      "args": ["/Users/Shared/code/JDR/jdr-terre-d-arran/tda-mcp-analyzer/mcp_server.py"],
+      "env": {
+        "PYTHONPATH": "/Users/Shared/code/JDR/jdr-terre-d-arran/tda-mcp-analyzer",
+        "SOURCES_PATH": "/Users/Shared/code/JDR/jdr-terre-d-arran/obsidian/00-Sources",
+        "VAULT_PATH": "/Users/Shared/code/JDR/jdr-terre-d-arran/obsidian",
+        "PROMPT_PATH": "/Users/Shared/code/JDR/jdr-terre-d-arran/prompt-extraction-tda.md"
+      }
+    }
+  }
+}

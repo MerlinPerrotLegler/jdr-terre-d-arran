@@ -1,0 +1,24 @@
+{
+  "vault_path": "../obsidian",
+  "books": [
+    {
+      "book_id": "Les Règles - TdA_LivretJoueur_compressed",
+      "total_chunks": 57,
+      "processed_chunks": 0,
+      "done": false
+    }
+  ],
+  "entities": {
+    "profils": 19,
+    "competences": 0,
+    "traits": 0,
+    "pnj": 17,
+    "lieux": 14,
+    "bestiaire": 0,
+    "equipement": 0,
+    "sorts": 0,
+    "autres": 0
+  },
+  "files_written": 34,
+  "conflicts": []
+}
